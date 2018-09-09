@@ -1,0 +1,23 @@
+-The linux system:
+    *four main parts: Kernel, GNU utilities, desktop env, app software
+
+*Overview of how it works
+
+Computer Hardware <---> linux Kernel
+Linux Kernel <--> GNU system utilities <--> window management Software
+Window management software <--> application software
+
+
+
+-The linux Kernel
+    * System memory management
+        *Can create swap space(virtual memory that does not exist) in disk
+        *Kernel can swap contents from virtual memory to physical memory allowing for the system to think theres more memory than there actually is
+    * Software program management
+    * Hardware management
+        * Character
+        * Block
+        * Network
+    * Filesystem management
+
+
